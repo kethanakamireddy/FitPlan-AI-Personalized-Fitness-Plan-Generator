@@ -49,13 +49,11 @@ Height is first converted from centimeters to meters.
 
 ## Hugging Face Space Link
 
-Add your deployed application link here after deployment.
-
-Example:
-https://huggingface.co/spaces/your-username/fitplan-ai-milestone1
+Deployed Link :
 
 ---
 
 ## Screenshots
 
 Screenshots of the running application are available in the screenshots folder.
+
