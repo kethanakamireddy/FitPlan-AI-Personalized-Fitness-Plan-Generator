@@ -49,11 +49,12 @@ Height is first converted from centimeters to meters.
 
 ## Hugging Face Space Link
 
-Deployed Link :
+Deployed Link :https://huggingface.co/spaces/kethanakamireddy/fitness
 
 ---
 
 ## Screenshots
 
 Screenshots of the running application are available in the screenshots folder.
+
 
