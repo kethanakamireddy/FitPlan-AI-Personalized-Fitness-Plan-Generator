@@ -58,3 +58,4 @@ Deployed Link :https://huggingface.co/spaces/kethanakamireddy/fitness
 Screenshots of the running application are available in the screenshots folder.
 
 
+
