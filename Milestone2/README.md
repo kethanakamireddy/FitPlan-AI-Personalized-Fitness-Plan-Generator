@@ -109,3 +109,8 @@ Result: Generated detailed gym routine including compound exercises.
 Screenshots of these outputs are available in the screenshots/ folder.
 
 ---
+## Hugging Face Space Link
+
+Deployed Link ::https://huggingface.co/spaces/kethanakamireddy/fitness
+
+---
