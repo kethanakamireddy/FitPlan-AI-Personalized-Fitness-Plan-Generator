@@ -111,6 +111,7 @@ Screenshots of these outputs are available in the screenshots/ folder.
 ---
 ## Hugging Face Space Link
 
-Deployed Link ::https://huggingface.co/spaces/kethanakamireddy/fitness
+Deployed Link ::https://huggingface.co/spaces/kethanakamireddy/module2
 
 ---
+
