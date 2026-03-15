@@ -1,4 +1,5 @@
-Milestone 3: Login System with OTP Verification
+Milestone 3: Login System with OTP Verification 
+
 Overview
 
 FitPlan AI is a web-based application that generates personalized fitness plans based on user inputs.
@@ -6,7 +7,8 @@ This milestone focuses on implementing a secure authentication system with datab
 
 The system allows users to register, log in, verify their identity using a One-Time Password (OTP), and access the dashboard only after successful verification.
 
-Key Features
+
+Key Features:
 
 User Signup with Email and Password
 
@@ -36,6 +38,7 @@ GitHub
 
 Hugging Face Spaces (Deployment)
 
+
 Project Files :
 
 app.py – Main Streamlit application that manages the user interface for signup, login, OTP verification, and dashboard access.
@@ -50,7 +53,8 @@ requirements.txt – Lists all Python libraries required to run the project.
 
 README.md – Provides project documentation including overview, features, setup instructions, and usage details.
 
-How It Works
+
+How It Works:
 
 Users create an account using email and password.
 
@@ -64,7 +68,8 @@ The user enters the OTP for verification.
 
 After successful verification, the user gains access to the dashboard.
 
-Deployment
+
+Deployment:
 
 The application is deployed using Streamlit on Hugging Face Spaces.
 Hugging Face Live Link:https://huggingface.co/spaces/kethanakamireddy/aifitnessloginpage
