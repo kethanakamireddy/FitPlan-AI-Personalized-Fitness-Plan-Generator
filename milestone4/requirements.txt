@@ -1,0 +1,12 @@
+altair
+pandas
+streamlit
+huggingface_hub
+requests
+transformers
+torch
+sentencepiece
+python-dotenv
+pyjwt
+groq
+werkzeug
